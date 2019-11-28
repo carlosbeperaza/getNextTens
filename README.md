@@ -1,9 +1,20 @@
 # ¿Cómo obtener la proxima decena en java?
 
-_Code:
-_ int number;
-_ int getMode = number % 10;
-_ int getCompleter = 10 - mod;
-_ int nextTens = number + complemeter;
-_ syso(nextTens)
+Code:
+```java
+int number;
+int getMode = number % 10;
+int getCompleter = 10 - mod;
+int nextTens = number + complemeter;
+syso(nextTens);
+```
+
+#### Example
+```java
+int number = 34
+int getMode = 34 % 10;
+int getCompleter = 10 - 4;
+int nextTens = 34+ 6;
+System.out.prinln(40);
+```
 
